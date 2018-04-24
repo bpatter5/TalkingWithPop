@@ -6,7 +6,7 @@ Code related to conversations I've had with my grandfather around statistical me
 - Demonstration of OLS and Ridge using base R
 - Permuting y values and showing effects in both Ridge and OLS
 - Cross validation errors using either method
-- Fitting time series using Fourier series with Ridge
+- Fitting time series using Fourier basis with Ridge
 
 ##### Sources
 
