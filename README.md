@@ -2,7 +2,7 @@
 # <center>TalkingWithPop</center>
 Code related to conversations I've had with my grandfather around statistical methods. Repository is mostly written in R with some Python. I'll be placing topics here as they come up. My plan is to add a subject when its discussed so I can catalog what we cover every week. 
 
-### Debate #1 - Ridge vs OLS for regression
+### Debate #1 - Ridge vs OLS for regression (nbs/Ridge_Regression.ipynb)
 - Demonstration of OLS and Ridge using base R
 - Permuting y values and showing effects in both Ridge and OLS
 - Cross validation errors using either method
